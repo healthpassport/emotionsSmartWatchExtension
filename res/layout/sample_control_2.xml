@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/smart_watch_2_control_width"
+    android:layout_height="@dimen/smart_watch_2_control_height"
+    android:orientation="vertical"
+    tools:ignore="ContentDescription,PxUsage" >
+
+            <ImageView
+        android:layout_width="fill_parent"
+        android:id="@+id/happy"
+        android:clickable="true"
+        android:layout_height="88px" 
+        android:src="@drawable/smile" />
+
+            <LinearLayout 
+                android:layout_height="88px"
+                android:layout_width="fill_parent">
+                
+
+                 <ImageView
+                     android:layout_width="110px"
+                     android:id="@+id/sad"
+                     android:layout_height="fill_parent"
+                     android:clickable="true"
+                     android:src="@drawable/sad" />
+
+                  <ImageView
+        android:layout_width="110px"
+        android:id="@+id/pain"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:src="@drawable/side_pain" />
+            </LinearLayout>
+           
+   
+</LinearLayout>
