@@ -9,14 +9,14 @@
     <ImageView
         android:layout_width="fill_parent"
         android:layout_height="88px"
-        android:src="@drawable/side_pain" />
+        android:src="@drawable/painn" />
 
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="88px"
         android:gravity="center"
         android:text="You are in PAIN!"
-        android:textColor="#5CB3FF"
+        android:textColor="#4762B8"
         android:textSize="20sp"
         android:textStyle="bold" />
 

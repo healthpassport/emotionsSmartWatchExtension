@@ -11,7 +11,7 @@
         android:id="@+id/happy"
         android:clickable="true"
         android:layout_height="88px" 
-        android:src="@drawable/smile" />
+        android:src="@drawable/happy" />
 
             <LinearLayout 
                 android:layout_height="88px"
@@ -23,14 +23,14 @@
                      android:id="@+id/sad"
                      android:layout_height="fill_parent"
                      android:clickable="true"
-                     android:src="@drawable/sad" />
+                     android:src="@drawable/sadd" />
 
                   <ImageView
         android:layout_width="110px"
         android:id="@+id/pain"
         android:layout_height="fill_parent"
         android:clickable="true"
-        android:src="@drawable/side_pain" />
+        android:src="@drawable/painn" />
             </LinearLayout>
            
    

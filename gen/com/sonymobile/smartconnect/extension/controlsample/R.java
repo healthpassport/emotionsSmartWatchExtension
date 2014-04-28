@@ -50,17 +50,17 @@ public final class R {
     public static final class drawable {
         public static final int background_style_1=0x7f020000;
         public static final int badge_counter=0x7f020001;
-        public static final int headset_pro_cancel_icn=0x7f020002;
-        public static final int headset_pro_focus_xs_icn=0x7f020003;
-        public static final int headset_pro_ok_icn=0x7f020004;
-        public static final int icn_18x18_black_white_sample_control=0x7f020005;
-        public static final int icon=0x7f020006;
-        public static final int icon_extension=0x7f020007;
-        public static final int icon_extension48=0x7f020008;
-        public static final int sad=0x7f020009;
-        public static final int sample_control_widget_anim=0x7f02000a;
-        public static final int side_pain=0x7f02000b;
-        public static final int smile=0x7f02000c;
+        public static final int happy=0x7f020002;
+        public static final int headset_pro_cancel_icn=0x7f020003;
+        public static final int headset_pro_focus_xs_icn=0x7f020004;
+        public static final int headset_pro_ok_icn=0x7f020005;
+        public static final int icn_18x18_black_white_sample_control=0x7f020006;
+        public static final int icon=0x7f020007;
+        public static final int icon_extension=0x7f020008;
+        public static final int icon_extension48=0x7f020009;
+        public static final int painn=0x7f02000a;
+        public static final int sadd=0x7f02000b;
+        public static final int sample_control_widget_anim=0x7f02000c;
         public static final int text_bg=0x7f02000d;
         public static final int widget_frame=0x7f02000e;
     }

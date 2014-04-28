@@ -9,14 +9,14 @@
     <ImageView
         android:layout_width="fill_parent"
         android:layout_height="88px"
-        android:src="@drawable/sad" />
+        android:src="@drawable/sadd" />
 
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="88px"
         android:gravity="center"
         android:text="You are SAD!"
-        android:textColor="#6D7B8D"
+        android:textColor="#C11B17"
         android:textSize="20sp"
         android:textStyle="bold" />
 

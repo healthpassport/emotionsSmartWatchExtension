@@ -9,14 +9,14 @@
     <ImageView
         android:layout_width="fill_parent"
         android:layout_height="88px"
-        android:src="@drawable/smile" />
+        android:src="@drawable/happy" />
 
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="88px"
         android:gravity="center"
         android:text="You are HAPPY!"
-        android:textColor="#C11B17"
+        android:textColor="#6EE33F"
         android:textSize="20sp"
         android:textStyle="bold" />
 
