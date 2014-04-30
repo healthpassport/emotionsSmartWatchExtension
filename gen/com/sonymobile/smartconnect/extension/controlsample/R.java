@@ -86,6 +86,7 @@ public final class R {
         public static final int sample_control_2=0x7f030003;
         public static final int smart_watch_notification_widget=0x7f030004;
         public static final int smart_watch_widget=0x7f030005;
+        public static final int test=0x7f030006;
     }
     public static final class string {
         /**  At least one dummy resource is needed to satisfy aapt.
